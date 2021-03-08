@@ -1,7 +1,7 @@
 # CSU11021-Intoduction-to-Computing-Semseter-1
 ![image](https://user-images.githubusercontent.com/72886944/109691072-f5828700-7b7e-11eb-8281-642106fcc36b.png)
 
-Status: Still in progress
+Status: Completed
 
 Grade: II-1
 
